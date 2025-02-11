@@ -7,4 +7,4 @@ Currently I work in the Insurance Industry as a Business Insurance advisor and a
 
 Through my academic career I have worked with programming languages such as Python, R, VBA, Stata and SPSS. According with the situation, each of those would help me solve the problem at hand, from trivial data visualization to complex data modeling.
 
-I hope this repository gives you an idea of my experience and skills working with data.
+I hope this repository gives you an idea of my experience and skills working with data. Please consider that some of these works were designed and completed together with some of my colleages. 
